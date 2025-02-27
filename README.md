@@ -1,16 +1,16 @@
 # Improving NYC Bus Reliability: Analyzing Delays and Breakdowns
 
 # Table of Contents
-  [**Project Background**](#project-background)
-  [**Data Structure & Initial Checks**](#data-structure--initial-checks)
-  [**Executive Summary**](#executive-summary)
-  [**Insights Deep Dive**](#insights-deep-dive)
-    [**Key Factors Behind Bus Service Disruptions**](#key-factors-behind-bus-service-disruptions)
-    [**Variations in Delay Times Across Bus Companies and Boroughs**](#variations-in-delay-times-across-bus-companies-and-boroughs)
-    [**Identifying High-Risk Bus Companies and Boroughs**](#identifying-high-risk-bus-companies-and-boroughs)
-    [**Patterns in Breakdown and Delay Frequency by Day of the Week**](#patterns-in-breakdown-and-delay-frequency-by-day-of-the-week)
-  [**Recommendations**](#recommendations)
-  [**Assumptions and Caveats**](#assumptions-and-caveats)
+- [**Project Background**](#project-background)
+- [**Data Structure & Initial Checks**](#data-structure--initial-checks)
+- [**Executive Summary**](#executive-summary)
+- [**Insights Deep Dive**](#insights-deep-dive)
+  - [**Key Factors Behind Bus Service Disruptions**](#key-factors-behind-bus-service-disruptions)
+  - [**Variations in Delay Times Across Bus Companies and Boroughs**](#variations-in-delay-times-across-bus-companies-and-boroughs)
+  - [**Identifying High-Risk Bus Companies and Boroughs**](#identifying-high-risk-bus-companies-and-boroughs)
+  - [**Patterns in Breakdown and Delay Frequency by Day of the Week**](#patterns-in-breakdown-and-delay-frequency-by-day-of-the-week)
+- [**Recommendations**](#recommendations)
+- [**Assumptions and Caveats**](#assumptions-and-caveats)
 
 ---
 

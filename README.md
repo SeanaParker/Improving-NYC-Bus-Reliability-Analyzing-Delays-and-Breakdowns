@@ -37,7 +37,7 @@ The dataset consists of a single table with 282,190 records of bus breakdowns a
 To ensure data integrity, the following cleaning steps were taken:
 - Used the `TEXT()` function to extract the day of the week from `Occurred_On` to identify weekday trends in breakdowns and delays.
 - Extracted the year from `Occurred_On` using the `YEAR()` function.
-- Split `How_Long_Delayed` into `Short_Delay_Time_Estimated` and `Long_Delay_Time_Estimated` using the TEXT-TO-COLUMNS feature based on predefined thresholds.
+- Split `How_Long_Delayed` into `Short_Delay_Time_Estimated` and `Long_Delay_Time_Estimated` using the `TEXT-TO-COLUMNS` feature based on predefined thresholds.
 - Standardized bus company names by identifying variations and manually correcting inconsistencies.
 
 ---

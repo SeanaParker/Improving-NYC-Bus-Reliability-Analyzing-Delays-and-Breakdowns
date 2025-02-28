@@ -82,12 +82,15 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 
 ## Identifying High-Risk Bus Companies and Boroughs
 ### Bus Companies with Frequent Breakdowns and Long Delays
-- Pride Transportation, Little Richie Bus Service, Logan Bus Company, and Lorinda Enterprises rank in the top 10 for both delays and frequent breakdowns, with Pride, Little Richie, and Logan also among the top five for total breakdowns.
+- Several bus companies rank in the top 10 for both delays and breakdowns, including Pride Transportation, Little Richie Bus Service, Logan Bus Company, and Lorinda Enterprises. Among them, Pride, Little Richie, and Logan also rank in the top five for total breakdowns, making them key contributors to service disruptions.
   
   <img src="Visualizations/High_Risk_Companies_PivTable.png" alt="High-Risk Companies PivTable" width="450">
   
-- Over time, Pride Transportation has seen a steady rise in breakdowns, reaching 1,033 in 2023 and accounting for over 40% of the total breakdowns among the top five companies.
-- Little Richie Bus Service and Logan Bus Company experienced a decline in breakdowns in 2021 and 2022, possibly due to reduced service during and immediately after the pandemic. However, breakdowns increased again in 2023, suggesting potential maintenance or operational challenges.
+- To better understand these trends, I analyzed the top five breakdown companies, comparing those that also rank in the top 10 for delays with the other top breakdown contributors. 
+- Pride Transportation shows a steady increase in breakdowns: a 32.7% decline in 2020, followed by a 156% increase in 2021, and continued growth in 2022 (68.5%) and 2023 (36.8%). By 2023, it accounted for over 40% of total breakdowns among the top five, indicating ongoing fleet reliability issues.
+- In contrast, Little Richie Bus Service and Logan Bus Company both saw breakdown declines in 2020 and 2021 (15.1% and 50.1% for Little Richie, 38.8% and 37.8% for Logan), followed by significant increases in 2022. Little Richie’s breakdowns surged by 83.6% in 2023, and Logan’s by 68.5%, suggesting that pandemic-related service cuts reduced breakdowns temporarily, but post-pandemic recovery strained their fleets.
+
+  <img src="Visualizations/YoY_Perc_Change_Bus_Comp.png" alt="YoY Percent Change Bus Companies" width="650">
 
   <img src="Visualizations/Top_Companies_Breakdown_Trends.png" alt="Top Companies Breakdown Trends" width="650">
 
@@ -99,9 +102,10 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 
   <img src="Visualizations/High_Risk_Boroughs_PivTab.png" alt="High-Risk Boroughs" width="450">
 
-- Based on the available dataset, Queens saw a 61% increase in reported breakdowns in 2023 compared to 2022. This increase suggests that fleet maintenance issues or operational inefficiencies may be driving both breakdowns and delays.
-- Meanwhile, Manhattan has seen a more gradual and stable trend in breakdowns, with numbers remaining relatively steady over time. 
-- Since breakdowns are less frequent in Manhattan, the primary cause of delays is likely due to traffic congestion and route inefficiencies rather than mechanical failures.
+- Looking at the year-over-year changes in breakdowns, Queens saw a 60.9% increase in breakdowns in 2023, making it the highest-ranking borough for breakdowns. Despite a 30.4% decline in 2020, breakdowns have steadily risen since, suggesting fleet maintenance issues or operational inefficiencies may be driving both breakdowns and delays.
+- In contrast, Manhattan has experienced more gradual changes, with a 5.8% increase in 2023. Its average change of 16.6% over the years indicates a stable trend, and with fewer breakdowns, traffic congestion and route inefficiencies are likely driving delays rather than mechanical failures.
+
+  <img src="Visualizations/YoY_Perc_Change_Boroughs.png" alt="YoY Percent Change Boroughs" width="650">
 
   <img src="Visualizations/Top_Boroughs_Breakdowns_Trends.png" alt="Top Boroughs Breakdown Trends" width="650">
 
@@ -135,10 +139,10 @@ Based on the insights and findings above, I would recommend the following:
 - Refine delay categorization to better understand the nearly 19% of cases classified as "Other" delays, which may reveal additional areas for improvement.
 ### Addressing Performance Issues Among High-Risk Bus Companies
 - Conduct annual audits of bus companies that rank high in both breakdowns and delays to assess maintenance practices and operational efficiency.
-- Require corrective action plans for companies with frequent failures, outlining steps to improve fleet reliability.
+- Encourage bus companies to improve reliability by setting clear performance benchmarks, offering incentives for improvement, and requiring action plans from companies with rising breakdown rates.
 ### Improving Service Reliability in High-Risk Boroughs
 - Investigate fleet maintenance and staffing challenges in Queens, which saw a 61% increase in breakdowns in 2023.
-- Assess congestion and routing issues in Manhattan, which has the longest average delay times (53 minutes).
+- Use real-time traffic data to adjust schedules and add buses during peak hours in Manhattan, which has the longest average delay time (53 minutes).
 ### Reducing Breakdown and Delay Trends Throughout the Week
 - Implement weekend fleet inspections to catch maintenance issues before buses return to service on Monday.
 - Adjust Monday schedules by deploying extra buses or tweaking departure times on high-delay routes. 

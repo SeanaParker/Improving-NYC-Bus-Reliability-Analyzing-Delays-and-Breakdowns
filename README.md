@@ -81,8 +81,6 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 ## Identifying High-Risk Bus Companies and Boroughs
 ### Bus Companies with Frequent Breakdowns and Long Delays
 - Pride Transportation, Little Richie Bus Service, Logan Bus Company, and Lorinda Enterprises rank in the top 10 for both delays and frequent breakdowns, with Pride, Little Richie, and Logan also among the top five for total breakdowns.
-
-  <img src="Visualizations/High_Risk_Companies_PivTab.png" alt="High-Risk Companies" width="400">
   
   
 - Over time, Pride Transportation has seen a steady rise in breakdowns, reaching 1,033 in 2023 and accounting for over 40% of the total breakdowns among the top five companies.

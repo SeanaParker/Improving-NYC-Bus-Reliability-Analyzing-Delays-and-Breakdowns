@@ -23,8 +23,6 @@ Frequent bus breakdowns and delays continue to disrupt daily commutes in New Yor
 - Identifying High-Risk Bus Companies and Boroughs
 - Patterns in Breakdown and Delay Frequency by Day of the Week
 
-The Excel workbook, which includes data cleaning and exploratory analysis, is available for review [here.](https://drive.google.com/file/d/16v4zOHwhJbtPXHAlBFplFogHmOhqQgi5/view?usp=sharing)
-
 ---
 
 # Data Structure & Initial Checks
@@ -127,7 +125,6 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 
 # Recommendations
 Based on the insights and findings above, I would recommend the following:
-
 ### Enhancing Preventative Maintenance to Reduce Breakdowns
 - Since 87% of breakdowns result from mechanical issues, strengthening preventative maintenance could significantly reduce service disruptions.
 - Implement a monthly or quarterly servicing schedule to prevent mechanical failures.
@@ -155,3 +152,8 @@ Based on the insights and findings above, I would recommend the following:
 - The borough-level analysis assumes that delays and breakdowns are primarily influenced by local conditions such as traffic congestion, fleet maintenance, and infrastructure. Broader citywide issues, such as extreme weather or transit strikes, were not accounted for separately.
 - While data patterns indicate possible links between breakdowns, congestion, and delays, additional validation is needed to establish causation.
 - The decrease in breakdowns in 2020 and 2021 is likely due to lower bus usage during the pandemic. This assumption is based on industry trends but was not validated with ridership data.
+
+---
+
+- The Excel workbook, which includes data cleaning and exploratory analysis, is available for review [here.](https://drive.google.com/file/d/16v4zOHwhJbtPXHAlBFplFogHmOhqQgi5/view?usp=sharing)
+- For more of my projects and data journey, visit my portfolio website and reach out!

@@ -57,7 +57,8 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 ### Top Causes of Delays
 - Heavy traffic is the overwhelming cause of bus delays, accounting for 176,196 incidents (66.8%). The "Other" category is the second most common reason, with 49,135 cases (18.6%), suggesting that many delays do not fit neatly into predefined categories.
 - Mechanical issues cause both delays (5.2%) and breakdowns, reinforcing the need for better fleet maintenance.
-
+  <img src="Visualizations/Common_Delays.png" alt="Common Delays" width="950">
+  
 ---
 
 ## Variations in Delay Times Across Bus Companies and Boroughs

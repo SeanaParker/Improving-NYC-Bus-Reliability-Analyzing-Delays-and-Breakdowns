@@ -69,14 +69,14 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 - Little Linda Bus Co. and Pride Transportation also experience extended delays, with long wait times exceeding 70 minutes.
 - The remaining companies in the top 10 report long delays between 60 and 67 minutes, indicating ongoing operational challenges.
 
-  <img src="Visualizations/Companies_Longest_Delays.png" alt="Companies with Longest Delays" width="600"> 
+  <img src="Visualizations/Companies_Longest_Delays.png" alt="Companies with Longest Delays" width="650"> 
 
 ### Delays by Borough
 - Manhattan experiences the longest delays, with short delays averaging 37 minutes and long delays reaching 53 minutes.
 - Rockland County and Queens also experience long delays exceeding 50 minutes, suggesting a trend in urban congestion.
 - Connecticut reports the shortest delays, with long delays averaging only 26 minutes
 
-  <img src="Visualizations/Boroughs_Longest_Delays.png" alt="Boroughs with Longest Delays" width="600">
+  <img src="Visualizations/Boroughs_Longest_Delays.png" alt="Boroughs with Longest Delays" width="650">
 
 ---
 
@@ -84,28 +84,28 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 ### Bus Companies with Frequent Breakdowns and Long Delays
 - Pride Transportation, Little Richie Bus Service, Logan Bus Company, and Lorinda Enterprises rank in the top 10 for both delays and frequent breakdowns, with Pride, Little Richie, and Logan also among the top five for total breakdowns.
   
-  <img src="Visualizations/High_Risk_Companies_PivTable.png" alt="High-Risk Companies PivTable" width="400">
+  <img src="Visualizations/High_Risk_Companies_PivTable.png" alt="High-Risk Companies PivTable" width="450">
   
 - Over time, Pride Transportation has seen a steady rise in breakdowns, reaching 1,033 in 2023 and accounting for over 40% of the total breakdowns among the top five companies.
 - Little Richie Bus Service and Logan Bus Company experienced a decline in breakdowns in 2021 and 2022, possibly due to reduced service during and immediately after the pandemic. However, breakdowns increased again in 2023, suggesting potential maintenance or operational challenges.
 
-  <img src="Visualizations/Top_Companies_Breakdown_Trends.png" alt="Top Companies Breakdown Trends" width="600">
+  <img src="Visualizations/Top_Companies_Breakdown_Trends.png" alt="Top Companies Breakdown Trends" width="650">
 
-  <img src="Visualizations/Top_Companies_Breakdowns_Prop_Trends.png" alt="Breakdown Trends - Proportion" width="600">
+  <img src="Visualizations/Top_Companies_Breakdowns_Prop_Trends.png" alt="Breakdown Trends - Proportion" width="650">
 
 ### Boroughs with Frequent Breakdowns and Long Delays
 - Queens and Manhattan rank among the top boroughs for both delays and breakdowns, with Queens reporting the highest number of breakdowns overall and the third-highest delay times.
 - Manhattan ranks fourth for breakdowns but has the longest average delay times at 53 minutes.
 
-  <img src="Visualizations/High_Risk_Boroughs_PivTab.png" alt="High-Risk Boroughs" width="400">
+  <img src="Visualizations/High_Risk_Boroughs_PivTab.png" alt="High-Risk Boroughs" width="450">
 
 - Based on the available dataset, Queens saw a 61% increase in reported breakdowns in 2023 compared to 2022. This increase suggests that fleet maintenance issues or operational inefficiencies may be driving both breakdowns and delays.
 - Meanwhile, Manhattan has seen a more gradual and stable trend in breakdowns, with numbers remaining relatively steady over time. 
 - Since breakdowns are less frequent in Manhattan, the primary cause of delays is likely due to traffic congestion and route inefficiencies rather than mechanical failures.
 
-  <img src="Visualizations/Top_Boroughs_Breakdowns_Trends.png" alt="Top Boroughs Breakdown Trends" width="600">
+  <img src="Visualizations/Top_Boroughs_Breakdowns_Trends.png" alt="Top Boroughs Breakdown Trends" width="650">
 
-  <img src="Visualizations/Top_Boroughs_Breakdowns_Prop_Trends.png" alt="Breakdown Trends - Proportion" width="600">
+  <img src="Visualizations/Top_Boroughs_Breakdowns_Prop_Trends.png" alt="Breakdown Trends - Proportion" width="650">
 
 ---
 
@@ -114,14 +114,14 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 - Bus breakdowns are most frequent on Monday (4,146 incidents) and steadily decline throughout the week, reaching 3,318 incidents on Friday. 
 - Since school buses remain inactive over the weekend, these issues may be due to factors such as cold starts, battery drainage, or unresolved mechanical problems from Friday, possibly leading to higher failure rates at the start of the week.
 
-  <img src="Visualizations/Breakdown_Frequency_DOW_Trend.png" alt="Breakdown Frequency DOW" width="600">
+  <img src="Visualizations/Breakdown_Frequency_DOW_Trend.png" alt="Breakdown Frequency DOW" width="650">
 
 ### Delay Trends by Day
 - Delays follow a similar pattern, with Monday experiencing the highest number of delays (54,667 incidents). While the cause is not explicitly recorded in the dataset, potential explanations include fleet conditions after a two-day break or heavier traffic congestion at the start of the week.
 - A mid-week increase on Wednesday and Thursday suggests possible traffic congestion patterns or operational inefficiencies affecting service reliability.
 - By Friday, delays drop sharply (49,512 incidents), possibly due to lighter traffic, fewer after-school programs, or early school dismissals reducing demand.
 
-  <img src="Visualizations/Delay_Frequency_DOW_Trend.png" alt="Delay Frequency DOW" width="600">
+  <img src="Visualizations/Delay_Frequency_DOW_Trend.png" alt="Delay Frequency DOW" width="650">
 
 ---
 

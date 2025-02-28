@@ -76,13 +76,22 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 - Rockland County and Queens also experience long delays exceeding 50 minutes, suggesting a trend in urban congestion.
 - Connecticut reports the shortest delays, with long delays averaging only 26 minutes
 
+  <img src="Visualizations/Boroughs_Longest_Delays.png" alt="Boroughs with Longest Delays" width="600">
+
 ---
 
 ## Identifying High-Risk Bus Companies and Boroughs
 ### Bus Companies with Frequent Breakdowns and Long Delays
 - Pride Transportation, Little Richie Bus Service, Logan Bus Company, and Lorinda Enterprises rank in the top 10 for both delays and frequent breakdowns, with Pride, Little Richie, and Logan also among the top five for total breakdowns.
+
+  <img src="Visualizations/High_Risk_Companies_PivTab.png" alt="High-Risk Companies" width="650">
+  
 - Over time, Pride Transportation has seen a steady rise in breakdowns, reaching 1,033 in 2023 and accounting for over 40% of the total breakdowns among the top five companies.
 - Little Richie Bus Service and Logan Bus Company experienced a decline in breakdowns in 2021 and 2022, possibly due to reduced service during and immediately after the pandemic. However, breakdowns increased again in 2023, suggesting potential maintenance or operational challenges.
+
+<img src="Visualizations/Top_Companies_Breakdown_Trends.png" alt="Top Companies Breakdown Trends" width="600">
+
+<img src="Visualizations/Top_Companies_Breakdowns_Prop_Trends.png" alt="Breakdown Trends - Proportion" width="600">
 
 ### Boroughs with Frequent Breakdowns and Long Delays
 - Queens and Manhattan rank among the top boroughs for both delays and breakdowns, with Queens reporting the highest number of breakdowns overall and the third-highest delay times.

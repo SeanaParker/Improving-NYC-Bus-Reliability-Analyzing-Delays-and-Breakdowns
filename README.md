@@ -23,7 +23,7 @@ Frequent bus breakdowns and delays continue to disrupt daily commutes in New Yor
 - Identifying High-Risk Bus Companies and Boroughs
 - Patterns in Breakdown and Delay Frequency by Day of the Week
 
-The Excel workbook, which includes data cleaning and exploratory analysis, is available for download [here.](https://drive.google.com/file/d/1jC6gu8tUCeboS5tYCjnI-Vg09cPpMLbp/view?usp=sharing)
+The Excel workbook, which includes data cleaning and exploratory analysis, is available for download [here.](https://drive.google.com/file/d/1dMir4RXcHYUZkAWSv4vVEhzBwoXcVDk3/view?usp=sharing)
 
 ---
 
@@ -161,5 +161,5 @@ Based on the insights and findings above, I would recommend the following:
 
 ---
 
-- The Excel workbook, which includes data cleaning and exploratory analysis, is available for download [here.](https://drive.google.com/file/d/1jC6gu8tUCeboS5tYCjnI-Vg09cPpMLbp/view?usp=sharing)
+- The Excel workbook, which includes data cleaning and exploratory analysis, is available for download [here.](https://drive.google.com/file/d/1dMir4RXcHYUZkAWSv4vVEhzBwoXcVDk3/view?usp=sharing)
 - For more of my projects and data journey, visit my portfolio website and reach out!

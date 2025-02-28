@@ -69,8 +69,7 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 - Little Linda Bus Co. and Pride Transportation also experience extended delays, with long wait times exceeding 70 minutes.
 - The remaining companies in the top 10 report long delays between 60 and 67 minutes, indicating ongoing operational challenges.
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="Visualizations/Companies_Longest_Delays.png" alt="Companies with Longest Delays" width="650"> |
-|-----------|------------------------------------------------------|
+<img src="Visualizations/Companies_Longest_Delays.png" alt="Companies with Longest Delays" width="600"> 
 
 ### Delays by Borough
 - Manhattan experiences the longest delays, with short delays averaging 37 minutes and long delays reaching 53 minutes.

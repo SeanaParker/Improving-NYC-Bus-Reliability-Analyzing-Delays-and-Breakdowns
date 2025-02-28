@@ -52,7 +52,7 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 ### Top Causes of Bus Breakdowns
 - Mechanical issues are the leading cause of bus breakdowns, with 10,399 incidents related to "Mechanical Problem" and another 2,970 incidents due to "Won’t Start." Flat Tire accounts for 2,499 cases, making it the third most common issue.
 - Together, these three reasons contribute to nearly 87% of all recorded breakdowns, highlighting maintenance as a key factor in fleet reliability.
-<img src="Visualizations/Common_Breakdowns.png" alt="Common Breakdowns" width="950">
+  <img src="Visualizations/Common_Breakdowns.png" alt="Common Breakdowns" width="950">
 
 ### Top Causes of Delays
 - Heavy traffic is the overwhelming cause of bus delays, accounting for 176,196 incidents (66.8%). The "Other" category is the second most common reason, with 49,135 cases (18.6%), suggesting that many delays do not fit neatly into predefined categories.

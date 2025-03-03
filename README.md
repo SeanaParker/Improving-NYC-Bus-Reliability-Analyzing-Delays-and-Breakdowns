@@ -7,8 +7,8 @@
 - [**Insights Deep Dive**](#insights-deep-dive)
   - [**Root Causes of Bus Breakdowns and Delays**](#root-causes-of-bus-breakdowns-and-delays)
   - [**Which Bus Companies and Boroughs Experience the Longest Delays?**](#which-bus-companies-and-boroughs-experience-the-longest-delays)
-  - [**Identifying High-Risk Bus Companies and Boroughs**](#identifying-high-risk-bus-companies-and-boroughs)
-  - [**Patterns in Breakdown and Delay Frequency by Day of the Week**](#patterns-in-breakdown-and-delay-frequency-by-day-of-the-week)
+  - [**Which Operators and Areas Contribute Most to Service Disruptions?**](#which-operators-and-areas-contribute-most-to-service-disruptions)
+  - [**When Do Breakdowns and Delays Occur Most Often?**](#when-do-breakdowns-and-delays-occur-most-often?)
 - [**Recommendations**](#recommendations)
 - [**Assumptions and Caveats**](#assumptions-and-caveats)
 
@@ -74,7 +74,7 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 
 ---
 
-## Identifying High-Risk Bus Companies and Boroughs
+## Which Operators and Areas Contribute Most to Service Disruptions?
 ### Bus Companies with Frequent Breakdowns and Long Delays
 - Several bus companies rank in the top 10 for both delays and breakdowns, including Pride Transportation, Little Richie Bus Service, Logan Bus Company, and Lorinda Enterprises. Among them, Pride, Little Richie, and Logan also rank in the top five for total breakdowns, making them key contributors to service disruptions.
   
@@ -107,7 +107,7 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 
 ---
 
-## Patterns in Breakdown and Delay Frequency by Day of the Week
+## When Do Breakdowns and Delays Occur Most Often?
 ### Breakdown Trends by Day
 - Bus breakdowns are most frequent on Monday (4,146 incidents) and steadily decline throughout the week, reaching 3,318 incidents on Friday. 
 - Since school buses remain inactive over the weekend, these issues may be due to factors such as cold starts, battery drainage, or unresolved mechanical problems from Friday, possibly leading to higher failure rates at the start of the week.
@@ -128,15 +128,15 @@ Based on the insights and findings above, I would recommend the following:
 ### Enhancing Preventative Maintenance to Reduce Breakdowns
 - Since 87% of breakdowns result from mechanical issues, strengthening preventative maintenance could significantly reduce service disruptions.
 - Implement a monthly or quarterly servicing schedule to prevent mechanical failures.
-### Managing Traffic and Optimizing Routes to Reduce Delays
-- Consider exploring dedicated bus lanes in Manhattan, Rockland County, and Queens to reduce delays.
-- Refine delay categorization to better understand the nearly 19% of cases classified as "Other" delays, which may reveal additional areas for improvement.
 ### Addressing Performance Issues Among High-Risk Bus Companies
 - Conduct annual audits of bus companies that rank high in both breakdowns and delays to assess maintenance practices and operational efficiency.
 - Encourage bus companies to improve reliability by setting clear performance benchmarks, offering incentives for improvement, and requiring action plans from companies with rising breakdown rates.
 ### Improving Service Reliability in High-Risk Boroughs
 - Investigate fleet maintenance and staffing challenges in Queens, which saw a 61% increase in breakdowns in 2023.
 - Use real-time traffic data to adjust schedules and add buses during peak hours in Manhattan, which has the longest average delay time (53 minutes).
+### Managing Traffic and Optimizing Routes to Reduce Delays
+- Consider exploring dedicated bus lanes in Manhattan, Rockland County, and Queens to reduce delays.
+- Refine delay categorization to better understand the nearly 19% of cases classified as "Other" delays, which may reveal additional areas for improvement.
 ### Reducing Breakdown and Delay Trends Throughout the Week
 - Implement weekend fleet inspections to catch maintenance issues before buses return to service on Monday.
 - Adjust Monday schedules by deploying extra buses or tweaking departure times on high-delay routes. 

@@ -57,7 +57,7 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
   
 ---
 
-## Variations in Delay Times Across Bus Companies and Boroughs
+## Which Bus Companies and Boroughs Experience the Longest Delays?
 ### Delays by Bus Company
 - Selby Transportation has the longest delays, with short delays averaging 60 minutes and long delays reaching 88 minutes.
 - Little Linda Bus Co. and Pride Transportation also experience extended delays, with long wait times exceeding 70 minutes.

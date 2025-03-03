@@ -5,8 +5,8 @@
 - [**Data Structure & Initial Checks**](#data-structure--initial-checks)
 - [**Executive Summary**](#executive-summary)
 - [**Insights Deep Dive**](#insights-deep-dive)
-  - [**Key Factors Behind Bus Service Disruptions**](#key-factors-behind-bus-service-disruptions)
-  - [**Variations in Delay Times Across Bus Companies and Boroughs**](#variations-in-delay-times-across-bus-companies-and-boroughs)
+  - [**Root Causes of Bus Breakdowns and Delays**](#root-causes-of-bus-breakdowns-and-delays)
+  - [**Which Bus Companies and Boroughs Experience the Longest Delays?**](#which-bus-companies-and-boroughs-experience-the-longest-delays?)
   - [**Identifying High-Risk Bus Companies and Boroughs**](#identifying-high-risk-bus-companies-and-boroughs)
   - [**Patterns in Breakdown and Delay Frequency by Day of the Week**](#patterns-in-breakdown-and-delay-frequency-by-day-of-the-week)
 - [**Recommendations**](#recommendations)
@@ -16,12 +16,6 @@
 
 # Project Background
 Frequent bus breakdowns and delays continue to disrupt daily commutes in New York City, creating challenges for transit operations and passenger experience. In this case study, I take on the role of a data analyst for the New York Division of Transportation, investigating inefficiencies in scheduling, maintenance, and transit reliability to help fleet managers and transit teams improve service performance.
-
-**Insights and recommendations are provided on the following key areas:**
-- Key Factors Behind Bus Service Disruptions
-- Variations in Delay Times Across Bus Companies and Boroughs
-- Identifying High-Risk Bus Companies and Boroughs
-- Patterns in Breakdown and Delay Frequency by Day of the Week
 
 The Excel workbook, which includes data cleaning and exploratory analysis, is available for review [here.](https://drive.google.com/file/d/1dMir4RXcHYUZkAWSv4vVEhzBwoXcVDk3/view?usp=sharing)
 
@@ -48,7 +42,7 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 ---
 
 # Insights Deep Dive
-## Key Factors Behind Bus Service Disruptions
+## Root Causes of Bus Breakdowns and Delays
 ### Top Causes of Bus Breakdowns
 - Mechanical issues are the leading cause of bus breakdowns, with 10,399 incidents related to "Mechanical Problem" and another 2,970 incidents due to "Won’t Start." Flat Tire accounts for 2,499 cases, making it the third most common issue.
 - Together, these three reasons contribute to nearly 87% of all recorded breakdowns, highlighting maintenance as a key factor in fleet reliability.

@@ -81,8 +81,11 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
   <img src="Visualizations/High_Risk_Companies_PivTable.png" alt="High-Risk Companies PivTable" width="450">
   
 - To better understand these trends, I analyzed the top five breakdown companies, comparing those that also rank in the top 10 for delays with the other top breakdown contributors. 
-- Pride Transportation shows a steady increase in breakdowns: a 32.7% decline in 2020, followed by a 156% increase in 2021, and continued growth in 2022 (68.5%) and 2023 (36.8%). By 2023, it accounted for over 40% of total breakdowns among the top five, indicating ongoing fleet reliability issues.
-- In contrast, Little Richie Bus Service and Logan Bus Company both saw breakdown declines in 2020 and 2021 (15.1% and 50.1% for Little Richie, 38.8% and 37.8% for Logan), followed by significant increases in 2022. Little Richie’s breakdowns surged by 83.6% in 2023, and Logan’s by 68.5%, suggesting that pandemic-related service cuts reduced breakdowns temporarily, but post-pandemic recovery strained their fleets.
+  - Pride Transportation experienced extreme volatility: breakdowns dropped 32.7% in 2020, then surged 156% in 2021, followed by 68.5% in 2022 and 36.8% in 2023. By 2023, Pride accounted for over 40% of all breakdowns among the top five companies.
+  - Little Richie Bus Service showed a similar trend: breakdowns fell 50.1% in 2021, only to surge 83.6% in 2023.
+  - Logan Bus Company followed a comparable pattern, with breakdowns declining 37.8% in 2021 before rising 78.6% in 2022 and 68.5% in 2023.
+- These patterns suggest that pandemic-related service cuts may have temporarily masked deeper fleet reliability issues, which have since resurfaced.
+- In contrast, Hoyt and Quality Transportation, despite experiencing spikes in 2021 and 2022, show signs of stabilization. Neither company ranks in the top 10 for delays, indicating a lower impact on overall service reliability.
 
   <img src="Visualizations/YoY_Perc_Change_Bus_Comp.png" alt="YoY Percent Change Bus Companies" width="650">
 

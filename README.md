@@ -6,7 +6,7 @@
 - [**Executive Summary**](#executive-summary)
 - [**Insights Deep Dive**](#insights-deep-dive)
   - [**Root Causes of Bus Breakdowns and Delays**](#root-causes-of-bus-breakdowns-and-delays)
-  - [**Which Bus Companies and Boroughs Experience the Longest Delays?**](#which-bus-companies-and-boroughs-experience-the-longest-delays?)
+  - [**Which Bus Companies and Boroughs Experience the Longest Delays?**](#which-bus-companies-and-boroughs-experience-the-longest-delays)
   - [**Identifying High-Risk Bus Companies and Boroughs**](#identifying-high-risk-bus-companies-and-boroughs)
   - [**Patterns in Breakdown and Delay Frequency by Day of the Week**](#patterns-in-breakdown-and-delay-frequency-by-day-of-the-week)
 - [**Recommendations**](#recommendations)

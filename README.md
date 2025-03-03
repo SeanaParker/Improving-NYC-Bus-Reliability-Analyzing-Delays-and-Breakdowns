@@ -8,7 +8,7 @@
   - [**Root Causes of Bus Breakdowns and Delays**](#root-causes-of-bus-breakdowns-and-delays)
   - [**Which Bus Companies and Boroughs Experience the Longest Delays?**](#which-bus-companies-and-boroughs-experience-the-longest-delays)
   - [**Which Operators and Areas Contribute Most to Service Disruptions?**](#which-operators-and-areas-contribute-most-to-service-disruptions)
-  - [**When Do Breakdowns and Delays Occur Most Often?**](#when-do-breakdowns-and-delays-occur-most-often?)
+  - [**When Do Breakdowns and Delays Occur Most Often?**](#when-do-breakdowns-and-delays-occur-most-often)
 - [**Recommendations**](#recommendations)
 - [**Assumptions and Caveats**](#assumptions-and-caveats)
 

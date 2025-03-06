@@ -5,10 +5,10 @@
 - [**Data Structure & Initial Checks**](#data-structure--initial-checks)
 - [**Executive Summary**](#executive-summary)
 - [**Insights Deep Dive**](#insights-deep-dive)
-  - [**Root Causes of Bus Breakdowns and Delays**](#root-causes-of-bus-breakdowns-and-delays)
-  - [**Which Bus Companies and Boroughs Experience the Longest Delays?**](#which-bus-companies-and-boroughs-experience-the-longest-delays)
-  - [**Which Operators and Areas Contribute Most to Service Disruptions?**](#which-operators-and-areas-contribute-most-to-service-disruptions)
-  - [**When Do Breakdowns and Delays Occur Most Often?**](#when-do-breakdowns-and-delays-occur-most-often)
+  - [**What Are the Leading Causes of Bus Breakdowns and Delays?**](#what-are-the-leading-causes-of-bus-breakdowns-and-delays)
+  - [**Where Are Bus Delays the Most Severe?**](#where-are-bus-delays-the-most-severe)
+  - [**Which Companies and Boroughs Contribute the Most to Service Disruptions?**](#which-companies-and-boroughs-contribute-the-most-to-service-disruptions)
+  - [**When Are Breakdowns and Delays Most Frequent?**](#when-are-breakdowns-and-delays-most-frequent)
 - [**Recommendations**](#recommendations)
 - [**Assumptions and Caveats**](#assumptions-and-caveats)
 
@@ -16,12 +16,6 @@
 
 # Project Background
 Frequent bus breakdowns and delays continue to disrupt daily commutes in New York City, creating challenges for transit operations and passenger experience. In this case study, I take on the role of a data analyst for the New York Division of Transportation, investigating inefficiencies in scheduling, maintenance, and transit reliability to help fleet managers and transit teams improve service performance.
-
-**Insights and recommendations are provided on the following key areas:**
-- Root Causes of Bus Breakdowns and Delays
-- Bus Companies and Boroughs with the Longest Delays
-- Major Contributors to Service Disruptions
-- Trends in Breakdown and Delay Frequency
 
 The Excel workbook, which includes data cleaning and exploratory analysis, is available for review [here.](https://drive.google.com/file/d/1dMir4RXcHYUZkAWSv4vVEhzBwoXcVDk3/view?usp=sharing)
 
@@ -43,12 +37,12 @@ To ensure data integrity, the following cleaning steps were taken:
 ---
 
 # Executive Summary
-Bus breakdowns and delays in NYC and surrounding areas are primarily caused by mechanical failures (57%) and traffic congestion (66.8%). Pride Transportation, Little Richie Bus Service, and Logan Bus Company have the highest breakdown and delay rates, with Pride Transportation alone responsible for over 40% of breakdowns among the top five companies in 2023. Manhattan sees the longest delays, while Queens experienced a 61% rise in breakdowns, pointing to possible maintenance and operational challenges. Improving preventative maintenance, adjusting schedules, and implementing dedicated bus lanes could enhance service reliability.
+Mechanical failures (57%) and traffic congestion (66.8%) are the two biggest drivers of bus breakdowns and delays in NYC. Three bus companies, Pride Transportation, Little Richie Bus Service, and Logan Bus, account for a significant share of disruptions, with Pride alone responsible for over 40% of breakdowns among the top five operators. Queens has seen a 61% increase in breakdowns, signaling potential fleet maintenance issues, while Manhattan experiences the longest average delays (53 minutes), largely due to congestion. Focusing on preventative maintenance, auditing high-risk operators, and dedicated bus lanes in problem areas can help reduce service disruptions and improve transit efficiency.
 
 ---
 
 # Insights Deep Dive
-## Root Causes of Bus Breakdowns and Delays
+## What Are the Leading Causes of Bus Breakdowns and Delays?
 ### Top Causes of Bus Breakdowns
 - Mechanical issues are the leading cause of bus breakdowns, with 10,399 incidents related to "Mechanical Problem" and another 2,970 incidents due to "Won’t Start." Flat Tire accounts for 2,499 cases, making it the third most common issue.
 - Together, these three reasons contribute to nearly 87% of all recorded breakdowns, highlighting maintenance as a key factor in fleet reliability.
@@ -63,7 +57,7 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
   
 ---
 
-## Which Bus Companies and Boroughs Experience the Longest Delays?
+## Where Are Bus Delays the Most Severe?
 ### Delays by Bus Company
 - Selby Transportation has the longest delays, with short delays averaging 60 minutes and long delays reaching 88 minutes.
 - Little Linda Bus Co. and Pride Transportation also experience extended delays, with long wait times exceeding 70 minutes.
@@ -80,7 +74,7 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 
 ---
 
-## Which Operators and Areas Contribute Most to Service Disruptions?
+## Which Companies and Boroughs Contribute the Most to Service Disruptions?
 ### Bus Companies with Frequent Breakdowns and Long Delays
 - Several bus companies rank in the top 10 for both delays and breakdowns, including Pride Transportation, Little Richie Bus Service, Logan Bus Company, and Lorinda Enterprises. Among them, Pride, Little Richie, and Logan also rank in the top five for total breakdowns, making them key contributors to service disruptions.
   
@@ -116,7 +110,7 @@ Bus breakdowns and delays in NYC and surrounding areas are primarily caused by m
 
 ---
 
-## When Do Breakdowns and Delays Occur Most Often?
+## When Are Breakdowns and Delays Most Frequent?
 ### Breakdown Trends by Day
 - Bus breakdowns are most frequent on Monday (4,146 incidents) and steadily decline throughout the week, reaching 3,318 incidents on Friday. 
 - Since school buses remain inactive over the weekend, these issues may be due to factors such as cold starts, battery drainage, or unresolved mechanical problems from Friday, possibly leading to higher failure rates at the start of the week.

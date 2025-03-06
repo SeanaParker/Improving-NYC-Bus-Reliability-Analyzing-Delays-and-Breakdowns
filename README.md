@@ -18,6 +18,7 @@
 Frequent bus breakdowns and delays continue to disrupt daily commutes in New York City, creating challenges for transit operations and passenger experience. In this case study, I take on the role of a data analyst for the New York Division of Transportation, investigating inefficiencies in scheduling, maintenance, and transit reliability to help fleet managers and transit teams improve service performance.
 
 The Excel workbook, which includes data cleaning and exploratory analysis, is available for review [here.](https://drive.google.com/file/d/1dMir4RXcHYUZkAWSv4vVEhzBwoXcVDk3/view?usp=sharing)
+
 Raw dataset available for download [here.](Exploration/NYC_Bus_Breakdowns_Delays_Raw_Dataset.xlsb)
 
 ---
@@ -160,4 +161,5 @@ Based on the insights and findings above, I would recommend the following:
 ---
 
 - The Excel workbook, which includes data cleaning and exploratory analysis, is available for review [here.](https://drive.google.com/file/d/1dMir4RXcHYUZkAWSv4vVEhzBwoXcVDk3/view?usp=sharing)
+- Raw dataset available for download [here.](Exploration/NYC_Bus_Breakdowns_Delays_Raw_Dataset.xlsb)
 - For more of my projects and data journey, visit my portfolio website and reach out!

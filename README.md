@@ -91,9 +91,9 @@ Mechanical failures (57%) and traffic congestion (66.8%) are the two biggest dri
 
   <img src="Visualizations/YoY_Perc_Change_Bus_Comp.png" alt="YoY Percent Change Bus Companies" width="650">
 
-  <img src="Visualizations/Top_Companies_Breakdown_Trends.png" alt="Top Companies Breakdown Trends" width="650">
+  <img src="Visualizations/Top_Companies_Breakdown_Trends_.png" alt="Top Companies Breakdown Trends" width="650">
 
-  <img src="Visualizations/Top_Companies_Breakdowns_Prop_Trends.png" alt="Breakdown Trends - Proportion" width="650">
+  <img src="Visualizations/Top_Companies_Breakdowns_Prop_Trends_.png" alt="Breakdown Trends - Proportion" width="650">
 
 ### Boroughs with Frequent Breakdowns and Long Delays
 - Queens and Manhattan rank among the top boroughs for both delays and breakdowns, with Queens reporting the highest number of breakdowns overall and the third-highest delay times.

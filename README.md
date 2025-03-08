@@ -39,7 +39,7 @@ To ensure data integrity, the following cleaning steps were taken:
 ---
 
 # Executive Summary
-Mechanical failures (57%) and traffic congestion (66.8%) are the two biggest drivers of bus breakdowns and delays in NYC. Three bus companies, Pride Transportation, Little Richie Bus Service, and Logan Bus, account for a significant share of disruptions, with Pride alone responsible for over 40% of breakdowns among the top five operators. Queens has seen a 61% increase in breakdowns, signaling potential fleet maintenance issues, while Manhattan experiences the longest average delays (53 minutes), largely due to congestion. Focusing on preventative maintenance, auditing high-risk operators, and dedicated bus lanes in problem areas can help reduce service disruptions and improve transit efficiency.
+Mechanical failures (57%) and traffic congestion (66.8%) are the main causes of bus delays in NYC, with Pride Transportation, Little Richie Bus Service, and Logan Bus contributing significantly. Queens has seen a 61% increase in breakdowns, pointing to fleet maintenance issues, while Manhattan experiences the longest delays (53 minutes) due to congestion. Improving service reliability will require better maintenance, monitoring high-risk operators, and implementing dedicated bus lanes in busy areas.
 
 ---
 

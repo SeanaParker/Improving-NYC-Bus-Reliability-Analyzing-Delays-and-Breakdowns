@@ -131,13 +131,11 @@ Mechanical failures (57%) and traffic congestion (66.8%) are the two biggest dri
 # Recommendations
 Based on the insights and findings above, I would recommend the following:
 ### Enhancing Preventative Maintenance to Reduce Breakdowns
-- Since 87% of breakdowns result from mechanical issues, strengthening preventative maintenance could significantly reduce service disruptions.
-- Implement a monthly or quarterly servicing schedule to prevent mechanical failures.
+- Since 87% of breakdowns result from mechanical issues, focusing on strengthening preventative maintenance could make a significant difference. If we manage to reduce mechanical issues by just 20%, we could avoid thousands of hours of delay, ensuring better service for passengers and fewer disruptions to the schedule.
 ### Addressing Performance Issues Among High-Risk Bus Companies
-- Conduct annual audits of bus companies that rank high in both breakdowns and delays to assess maintenance practices and operational efficiency.
-- Encourage bus companies to improve reliability by setting clear performance benchmarks, offering incentives for improvement, and requiring action plans from companies with rising breakdown rates.
+- Pride Transportation and other high-risk companies should undergo regular audits to track their performance. By aiming for a 15% reduction in breakdowns over six months, these companies can improve their overall reliability and ensure they’re meeting service expectations.
 ### Improving Service Reliability in High-Risk Boroughs
-- Investigate fleet maintenance and staffing challenges in Queens, which saw a 61% increase in breakdowns in 2023.
+- Investigate fleet maintenance and staffing challenges in Queens, which saw a 61% increase in breakdowns in 2023. Deploying a dedicated maintenance team could reduce breakdowns by 20% over the next year, leading to smoother operations and less disruption for riders.
 - Use real-time traffic data to adjust schedules and add buses during peak hours in Manhattan, which has the longest average delay time (53 minutes).
 ### Managing Traffic and Optimizing Routes to Reduce Delays
 - Consider exploring dedicated bus lanes in Manhattan, Rockland County, and Queens to reduce delays.

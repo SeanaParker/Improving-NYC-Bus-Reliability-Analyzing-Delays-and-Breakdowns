@@ -29,8 +29,7 @@ The dataset consists of a single table with 282,190 records of bus breakdowns a
 - **Operational Data** – Schools affected, route number, student impact, and school year.
 - **Response Tracking** – Date and time of incidents, duration of delays, and whether schools or parents were notified.
 
-## Data Cleaning Steps
-To ensure data integrity, the following cleaning steps were taken:
+## Data Cleaning Steps:
 - Used the `TEXT()` function to extract the day of the week from `Occurred_On` to identify weekday trends in breakdowns and delays.
 - Extracted the year from `Occurred_On` using the `YEAR()` function.
 - Split `How_Long_Delayed` into `Short_Delay_Time_Estimated` and `Long_Delay_Time_Estimated` using the `TEXT-TO-COLUMNS` feature based on predefined thresholds.

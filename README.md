@@ -1,4 +1,4 @@
-# Improving NYC Bus Reliability: Analyzing Delays and Breakdowns
+# Improving NYC Bus Reliability: Analyzing Delays and Service Breakdowns
 
 # Table of Contents
 - [**Project Background**](#project-background)

@@ -147,7 +147,8 @@ Based on the insights and findings above, I would recommend the following:
 ---
 
 # Assumptions and Caveats
-- Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+
 - This analysis is based on the available dataset of 282,190 records. Factors such as real-time traffic conditions and maintenance logs were not included.
 - Since company names were manually reviewed and adjusted for consistency, minor discrepancies may remain due to data entry variations.
 - The division of short and long delay times was based on a set threshold for analysis purposes. While this helps categorize delays, actual transit experiences may vary.
